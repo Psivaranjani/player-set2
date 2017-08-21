@@ -4,7 +4,7 @@ public class Numeric {
   
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);   
-    String string = sc.nextLine();;
+    String string = sc.nextLine();
     boolean numeric = true;
     
     try {
