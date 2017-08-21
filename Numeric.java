@@ -14,8 +14,8 @@ public class Numeric {
     }
     
     if(numeric)
-    System.out.println(string + " is a numeric");
+    System.out.println("True");
     else
-    System.out.println(string + " is not a numeric");
+    System.out.println("False");
   }
 }
